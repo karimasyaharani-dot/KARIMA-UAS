@@ -1,8 +1,3 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Selamat Datang — Kelas Lereng</title>
-<style>
-
 Nama : Karima Zafa Syaharani
 
 NIM  : A0B025051
