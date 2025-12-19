@@ -31,39 +31,8 @@
   </header>
 
   <main id="home">
-    <section class="hero" role="region" aria-labelledby="hero-title">
-      <h1 id="hero-title">Selamat datang di NamaProyek</h1>
-      <p>Ini adalah template awal HTML — cepat, responsif, dan aksesibel.</p>
-      <a class="btn" href="#about">Pelajari lebih lanjut</a>
-    </section>
-
-    <section id="about" aria-labelledby="about-title">
-      <h2 id="about-title">Tentang</h2>
-      <p>Tambahkan konten proyek Anda di sini.</p>
-    </section>
-
-    <section id="contact" aria-labelledby="contact-title">
-      <h2 id="contact-title">Kontak</h2>
-      <form id="contact-form" action="#" method="post">
-        <label for="name">Nama</label>
-        <input id="name" name="name" type="text" required />
-
-        <label for="email">Email</label>
-        <input id="email" name="email" type="email" required />
-
-        <label for="message">Pesan</label>
-        <textarea id="message" name="message" rows="4"></textarea>
-
-        <button type="submit">Kirim</button>
-      </form>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; <span id="year"></span> NamaProyek — Semua hak cipta dilindungi.</p>
-  </footer>
-</body>
-</html>
+   
+   
 
 Nama : Karima Zafa Syaharani
 
